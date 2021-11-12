@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "123181439974",
+    "firebase_url": "https://dollarpage-bb53f-default-rtdb.firebaseio.com",
+    "project_id": "dollarpage-bb53f",
+    "storage_bucket": "dollarpage-bb53f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:123181439974:android:53d66ca526ac6b5503d427",
+        "android_client_info": {
+          "package_name": "com.dollarPage.android"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "123181439974-lsmorj625tq33heplkg50fouttpaufli.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDl9XSKIJXYxCpuNVepOrqIA1_I7sbvkRA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "123181439974-lsmorj625tq33heplkg50fouttpaufli.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

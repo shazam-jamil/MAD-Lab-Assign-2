@@ -1,0 +1,41 @@
+{
+  "expo": {
+    "name": "dollarPage",
+    "slug": "dollarPage",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./src/assets/icon.png",
+    "splash": {
+      "image": "./src/assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#00D3FF"
+    },
+    "notification": {
+      "icon": "./src/assets/push-icon.png"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": false,
+      "bundleIdentifier": "com.dollarPage.ios",
+      "buildNumber": "1.0.5"
+    },
+    "android": {
+      "package": "com.dollarPage.android",
+      "versionCode": 1,
+      "useNextNotificationsApi": true,
+      "googleServicesFile": "./google-services.json",
+      "adaptiveIcon": {
+        "foregroundImage": "./src/assets/adaptive-icon.png"
+      }
+    },
+    "web": {
+      "favicon": "./src/assets/favicon.png"
+    },
+    "description": ""
+  }
+}
